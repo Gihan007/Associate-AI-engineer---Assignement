@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+psycopg[binary]
+matplotlib
+catboost
+lightgbm
+imbalanced-learn
+requests
